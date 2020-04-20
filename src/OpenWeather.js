@@ -1,4 +1,4 @@
-const apiKey = '908420bcf01a2925bcd5c7bb4d2d96bf';
+const apiKey = ''; // OpenWeatherMap API key here
 
 const OpenWeather = {
     getData: (cityName) => {
