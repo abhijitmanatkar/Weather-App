@@ -1,0 +1,35 @@
+.WeatherCard .info {
+    //border: 1px solid black;
+}
+
+.WeatherCard {
+    width: 200px;
+    height: 200px;
+    background-color: #24abff;
+    text-align: center;
+    //border: 2px solid black;
+    padding: 0px 10px;
+    margin: 10px 10px;
+    border-radius: 10%;
+}
+
+.WeatherCard img {
+    margin: 0px;
+    //background-color: white;
+}
+
+.WeatherCard .info {
+    color: white;
+}
+
+.WeatherCard .info h4 {
+    text-align: left;
+    margin: 0px;
+    padding: 0px;
+}
+
+.WeatherCard .info h3 {
+    font-size: 3rem;
+    padding: 0px;
+    margin: 0px;
+}
